@@ -91,6 +91,12 @@ xgettext -o messages.pot -L TSX --from-code=utf-8 --no-wrap \
 perl po2json.pl --po es-MX.po --json es-MX/messages.json --context app
 ```
 
+## Example
+
+[`example/`](example/) is a Vite + React app with live language switching and
+plurals, deployed to <https://rgglez.github.io/react-i18n-gettext/>. See its
+[README](example/README.md) to run it locally.
+
 ## Development
 
 ```bash
