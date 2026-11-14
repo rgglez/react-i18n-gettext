@@ -1,6 +1,6 @@
 {
   "name": "@rgglez/react-i18n-gettext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Translations (i18n) for React using gettext: provider and hook with live language switching.",
   "type": "module",
   "exports": {
