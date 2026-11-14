@@ -1,0 +1,66 @@
+{
+   "charset" : "utf-8",
+   "translations" : {
+      "" : {
+         "" : {
+            "msgid" : "",
+            "msgstr" : [
+               "Language: de_DE\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+            ]
+         }
+      },
+      "app" : {
+         "%d file deleted" : {
+            "msgstr" : [
+               "%d Datei gelöscht",
+               "%d Dateien gelöscht"
+            ],
+            "msgid" : "%d file deleted",
+            "msgctxt" : "app",
+            "msgid_plural" : "%d files deleted"
+         },
+         "Files:" : {
+            "msgctxt" : "app",
+            "msgid" : "Files:",
+            "msgstr" : [
+               "Dateien:"
+            ]
+         },
+         "This is an example of a static string" : {
+            "msgstr" : [
+               "Dies ist ein Beispiel für eine statische Zeichenkette"
+            ],
+            "msgid" : "This is an example of a static string",
+            "msgctxt" : "app"
+         },
+         "Hello %s, you won $%s" : {
+            "msgstr" : [
+               "Hallo %s, du hast $%s gewonnen"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Hello %s, you won $%s"
+         },
+         "Current language: %s" : {
+            "msgid" : "Current language: %s",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Aktuelle Sprache: %s"
+            ]
+         },
+         "React gettext example" : {
+            "msgid" : "React gettext example",
+            "msgctxt" : "app",
+            "msgstr" : [
+               "React-gettext-Beispiel"
+            ]
+         }
+      }
+   },
+   "headers" : {
+      "MIME-Version" : "1.0",
+      "Language" : "de_DE",
+      "Plural-Forms" : "nplurals=2; plural=(n != 1);",
+      "Content-Type" : "text/plain; charset=UTF-8",
+      "Content-Transfer-Encoding" : "8bit"
+   }
+}

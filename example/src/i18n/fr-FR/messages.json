@@ -1,0 +1,66 @@
+{
+   "headers" : {
+      "Language" : "fr_FR",
+      "Content-Type" : "text/plain; charset=UTF-8",
+      "MIME-Version" : "1.0",
+      "Plural-Forms" : "nplurals=2; plural=(n > 1);",
+      "Content-Transfer-Encoding" : "8bit"
+   },
+   "charset" : "utf-8",
+   "translations" : {
+      "" : {
+         "" : {
+            "msgstr" : [
+               "Language: fr_FR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n > 1);\n"
+            ],
+            "msgid" : ""
+         }
+      },
+      "app" : {
+         "Hello %s, you won $%s" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Bonjour %s, vous avez gagné $%s"
+            ],
+            "msgid" : "Hello %s, you won $%s"
+         },
+         "Current language: %s" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Langue actuelle : %s"
+            ],
+            "msgid" : "Current language: %s"
+         },
+         "Files:" : {
+            "msgctxt" : "app",
+            "msgid" : "Files:",
+            "msgstr" : [
+               "Fichiers :"
+            ]
+         },
+         "%d file deleted" : {
+            "msgctxt" : "app",
+            "msgid_plural" : "%d files deleted",
+            "msgid" : "%d file deleted",
+            "msgstr" : [
+               "%d fichier supprimé",
+               "%d fichiers supprimés"
+            ]
+         },
+         "This is an example of a static string" : {
+            "msgctxt" : "app",
+            "msgid" : "This is an example of a static string",
+            "msgstr" : [
+               "Ceci est un exemple de chaîne statique"
+            ]
+         },
+         "React gettext example" : {
+            "msgstr" : [
+               "Exemple de gettext avec React"
+            ],
+            "msgid" : "React gettext example",
+            "msgctxt" : "app"
+         }
+      }
+   }
+}

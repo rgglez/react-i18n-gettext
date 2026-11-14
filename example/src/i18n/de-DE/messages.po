@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "app"
+msgid "React gettext example"
+msgstr "React-gettext-Beispiel"
+
+msgctxt "app"
+msgid "This is an example of a static string"
+msgstr "Dies ist ein Beispiel für eine statische Zeichenkette"
+
+msgctxt "app"
+msgid "Hello %s, you won $%s"
+msgstr "Hallo %s, du hast $%s gewonnen"
+
+msgctxt "app"
+msgid "Current language: %s"
+msgstr "Aktuelle Sprache: %s"
+
+msgctxt "app"
+msgid "Files:"
+msgstr "Dateien:"
+
+msgctxt "app"
+msgid "%d file deleted"
+msgid_plural "%d files deleted"
+msgstr[0] "%d Datei gelöscht"
+msgstr[1] "%d Dateien gelöscht"

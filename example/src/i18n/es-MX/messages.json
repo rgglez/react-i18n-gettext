@@ -1,0 +1,66 @@
+{
+   "headers" : {
+      "Content-Type" : "text/plain; charset=UTF-8",
+      "Content-Transfer-Encoding" : "8bit",
+      "MIME-Version" : "1.0",
+      "Plural-Forms" : "nplurals=2; plural=(n != 1);",
+      "Language" : "es_MX"
+   },
+   "translations" : {
+      "app" : {
+         "Hello %s, you won $%s" : {
+            "msgstr" : [
+               "Hola %s, has ganado $%s"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Hello %s, you won $%s"
+         },
+         "Current language: %s" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "Idioma actual: %s"
+            ],
+            "msgid" : "Current language: %s"
+         },
+         "React gettext example" : {
+            "msgid" : "React gettext example",
+            "msgstr" : [
+               "Ejemplo de gettext en React"
+            ],
+            "msgctxt" : "app"
+         },
+         "This is an example of a static string" : {
+            "msgstr" : [
+               "Éste es un ejemplo de una cadena estática"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "This is an example of a static string"
+         },
+         "Files:" : {
+            "msgstr" : [
+               "Archivos:"
+            ],
+            "msgctxt" : "app",
+            "msgid" : "Files:"
+         },
+         "%d file deleted" : {
+            "msgctxt" : "app",
+            "msgstr" : [
+               "%d archivo eliminado",
+               "%d archivos eliminados"
+            ],
+            "msgid" : "%d file deleted",
+            "msgid_plural" : "%d files deleted"
+         }
+      },
+      "" : {
+         "" : {
+            "msgid" : "",
+            "msgstr" : [
+               "Language: es_MX\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+            ]
+         }
+      }
+   },
+   "charset" : "utf-8"
+}
